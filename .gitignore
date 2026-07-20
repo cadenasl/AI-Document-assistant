@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ai-document-assistant/
+
+# ChromaDB
+chroma/
+chroma_db/
+db/
+persist/
