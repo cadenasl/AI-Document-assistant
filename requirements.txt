@@ -1,0 +1,11 @@
+aiofiles
+chromadb
+fastapi
+langchain-text-splitters
+openai
+pydantic
+python-dotenv
+python-multipart
+PyMuPDF
+sentence-transformers
+uvicorn[standard]
