@@ -5,9 +5,9 @@ class question_asked_request(BaseModel):
   
 class summarize_title(BaseModel):
   id:str
-class get_document(BaseModel):
+class get_document_request(BaseModel):
   id:str
-class delete_document(BaseModel):
+class delete_document_request(BaseModel):
   id:str
 class UploadResponse(BaseModel):
     message: str
